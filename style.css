@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+.section-container{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.section-container img{
+    height: 200px;
+    width: auto;
+   
+}
+
+.background-section{
+    background-image: url(/img/background.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-attachment: fixed;
+}
+
+.section-one{
+    
+}
+
+.section-two{
+    background-image: url(/img/background.jpg);
+
+}
