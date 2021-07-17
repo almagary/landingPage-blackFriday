@@ -16,9 +16,8 @@ html{
 }
 
 .section-container img{
-    height: 200px;
+    height: 480px;
     width: auto;
-   
 }
 
 .background-section{
@@ -41,9 +40,10 @@ html{
 
 .card-container{
     background-color: #ffffff;
-    border-radius: 25px;
-    padding: 25px;
-    max-width: 450px;
+    border-radius: 8px;
+    padding: 25px 33px;
+    width: 450px;
+    margin-top: 12rem;
 }
 
 form{
